@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="stylesheet1.css">
+		<title>
+		 M.E.L.S Mentality
+		</title>
+</head>
+<body >
+	<div class="header">  
+		<img src="pics/banner.jpg" alt="HEADER">
+	</div>
+	<div class= "Scroll">
+	<marquee behavior="scroll" direction="left"> Menatally Elevating Life's Situations </marquee>
+      </div>
+    </div>
+<div class="menuContainer">
+  <span class="menuButton"> 
+  		<a href="page2.html" >
+   		ABOUT
+	</a>
+</span>
+  <span class="menuButton"> 
+  	<a href="#">
+  		LIFESTYLE.
+  	</a>
+  </span>
+  <span class="menuButton">
+  	<a href="#">
+ 		CODING W/MELS.
+ 	</a>
+</span>
+  <span class="menuButton">
+  	<a href="#">
+  		CONNECT W/ US.
+	</a>
+</span>
+</div>
+<footer> 
+	<p>
+	<em> "Mentally Elevating Life's Situations <span>Since 2008"
+	</span>
+	</em>
+	</p>
+</footer> 
